@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\LuisRM\Documents\Nueva carpeta\restApi\.metadata\.plugins\org.eclipse.jdt.core
+1950583842.index
